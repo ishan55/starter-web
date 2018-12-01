@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 Adding new text
 Please fork this repo
-
+aDDING NEW TEXT
